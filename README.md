@@ -1,2 +1,2 @@
 # my-portfolio
-a portfolio for myselg
+a portfolio for myself
